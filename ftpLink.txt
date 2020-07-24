@@ -1,0 +1,99 @@
+Passwd : SDPTeam@2017
+IP:10.49.11.150
+username :sdp
+
+
+https://metabroadcast.com/blog/java-socket-programming-with-netty
+
+
+block-chain command to run angular jar-
+-----------------------------------------
+java -jar Angularproxy.jar /websocket 10.64.222.30 8088 /IAM 10.64.222.30 9443 /ERM 10.64.222.30 9443 / localhost 4200 &
+
+
+SD-WAN command to run angular jar-
+-----------------------------------------
+java -jar Angularproxy.jar /websocket 10.32.140.167 7086 /IAM 10.32.140.167 8443 /PEAG 10.32.140.167 8443 / localhost 4200 &
+
+
+JFS-Demo command to run angular jar-
+-----------------------------------------
+java -jar Angularproxy.jar /websocket 10.32.142.17 6086 /IAM 10.32.142.17 8443 /PaymentDApp 10.32.142.17 8443 / localhost 4200 &
+
+path-in-EdgLB = /data1/JFS_Demo/rtJio_EdgeLB_3_3_2/JIO_TCP_UI/
+
+http://10.64.217.191:8081/artifactory/jenkinsiot/com/jio/blockchain/jfsbankappui/1.0.0/jfsbankappui-1.0.0.zip
+
+
+SDK-WEB
+================
+java -jar Angularproxy.jar /websocket 10.64.222.30 8088 /IAM 10.64.222.30 9443 /ERM 10.64.222.30 9443 /sdk 10.64.222.30 9443 / localhost 3000 &
+
+start chrome.exe --allow-file-access-from-files --disable-web-security --user-data-dir="c:\opera-dev"
+
+
+{
+  "ip": "localhost",
+  "port":7050,
+  "websocketPort": 7050,
+  "httpsPort": 7050,
+  "project": "MANO",
+  "production": true,
+  "nonRestrictedPages": [
+    "/login",
+    "/sessionExpired",
+    "/forgotPassword",
+    "/resetPassword",
+    "/logout"
+  ],
+  "defaultPageAfterLogin": "/layout/Dashboard",
+  "loginPage": "/login",
+  "sessionExpiredPage": "/login",
+  "logoutPath": "/logout",
+  "clientSideRequestBarring": false,
+  "useProxyServer": false,
+  "sessionTimeOut": 18000000,
+  "proxyIp": "localhost",
+  "proxyPort": 7050
+}
+
+
+IPBP--
+===========================================================
+java -jar AngularProxyServer.jar /websocket 10.32.131.213 6086 /IAM 10.32.131.213 7050 /IPBM 10.32.131.213 7050  / localhost 4200 &
+
+
+BTAS-SMP 
+-------------------------------------------
+start chrome.exe --allow-file-access-from-files --disable-web-security --user-data-dir="c:\opera-dev"
+
+ 
+AngularJS-
+---------------------
+
+https://dev.jiomano.jiolabs.com:8443
+
+Username: admin
+
+Password: 1234@jio
+
+RXjs CDN-
+-----------------
+https://unpkg.com/@reactivex/rxjs@5.3.0/dist/global/Rx.js
+
+
+
+RMR
+=======================
+http://10.32.131.213:8012/RMR/sync/abc/vPCRF_TEST_2/1.0/vnf-xxxxxxxx-vnfc-1110-bab2?fcapType=binary
+
+
+testing  API
+=====================
+https://www.getpostman.com/collections/3e3990398222749a65d2
+
+
+
+http://10.64.217.191:8081/artifactory/webapp/#/artifacts/browse/tree/General/jenkinsiot/com/jio/sdn/sdnuiux/1.0.0
+
+

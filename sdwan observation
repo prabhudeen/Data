@@ -1,0 +1,77 @@
+ Today's agenda
+ 
+ *T42661* In Nokia GCT audit deviation report while deleting file we are getting [object Object] instead of file name.
+ *T42662* Required loader while downloading get API data output in Nokia Phase.
+
+descussion regarding json for getTransactionList and getTransactionDetail API
+
+
+meeting id : 7458 87 2255
+live coding link : https://livecode.amazon.jobs/session/7b5c2c70-5d6a-4ea2-8ab9-d781929cdfc5
+chime link : https://chime.aws
+
+https://join.skype.com/RpaNAo8knb1Y
+
+
+meeting id : 3940 89 6602
+
+Custom-Table(Groping) using Angular Material guide 
+
+
+[4/16 10:59 AM] Kiran Jangid
+    
+
+
+1- filmstrip
+
+2- follow-me
+
+3- help
+
+4- invite
+
+5- settings
+
+6- share-room
+
+7- shared-video
+
+8- speaker-stats
+
+
+
+T34081	we are not able to schedule the Nokia Health Check, Earlier we are able to schedule	submodule. name was incorrect
+T31291	After purge of nokia GCT report if we perform new nokia GCT and we go to deviation reports the UI displaying first page reports on the last page.
+
+
+curl -u documentuploaderiot:documentuploaderiot -X PUT http://10.64.217.191:8081/artifactory/webapp/#/artifacts/browse/tree/General/jenkinsiot/com/jio/sdn/sdnuiux/1.2.4/sdnuiux-1.2.4.zip -T ./scef-docker-v1_0_0.tar
+
+
+
+curl -u documentuploaderiot:documentuploaderiot -X PUT http://10.64.217.191:8081/artifactory/jenkinsiot/com/jio/sdn/sdnuiux/1.2.4/sdnuiux-1.2.4.zip -T ./dist.zip
+
+
+T35469	While performing Infrastructure Provisioning, Team is not able to perform Export Functionality and getting error (TypeError: _co.exportAsXLSX is not a function) in UI console.
+T34892	While creating Nokia infra trail using bulk provisioning team is getting 'POIXMLException' exception.
+T35639	We are assigning Ciena Health Check Phase to User but we are also able to view PM Management phase.
+
+
+
+
+
+{
+ 	"node-id": "87a49100-cd43-1eb1-833b-fc15b424cc2c",
+ 	"project-name": "testproject15",
+ 	"expiry-time": 1581684914203,
+ 	"api-key": "XcDaKoY+rjBYOJzqc857ioWkjqEFotSPx+OGazTHsHCSGgf0ftTl9owzzIsPOM0Xti/YzfVzyltDARbM+Byv1LQlCXsAKS/qv40xiNEK1t2iIKQZKZoi/QtZ+aaU1Kj+",
+ 	"developer-name": "admin",
+ 	"platform-name": "blockchain",
+ 	"license-type": "trial",
+ 	"project-id": "testproject15"
+ }
+ 
+ 
+ 
+Please accept this message as notification that I am leaving my position with ABCD Company effective September 15
+
+8651821670 vinay 
